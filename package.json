@@ -1,7 +1,8 @@
 {
-  "name": "developer-portfolio-starter-code",
+  "name": "samuel-jeromiah-portfolio",
   "version": "0.1.0",
   "private": true,
+  "author": "Samuel Jeromiah",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

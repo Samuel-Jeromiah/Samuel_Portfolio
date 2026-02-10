@@ -43,7 +43,7 @@ const NavBar = () => {
                 </nav>
 
                 <nav className="flex items-center justify-center flex-wrap">
-                    <motion.a href="https://github.com" target={"_blank"}
+                    <motion.a href="https://github.com/LuminarySam30" target={"_blank"}
                         whileHover={{ y: -2 }}
                         whileTap={{ scale: 0.9 }}
                         className="w-6 mx-3 bg-light rounded-full text-dark"
@@ -72,7 +72,7 @@ const NavBar = () => {
                 </nav>
 
                 <nav className="flex items-center justify-center flex-wrap">
-                    <motion.a href="https://github.com" target={"_blank"}
+                    <motion.a href="https://github.com/LuminarySam30" target={"_blank"}
                         whileHover={{ y: -2 }}
                         whileTap={{ scale: 0.9 }}
                         className="w-6 mx-3 bg-light rounded-full text-dark"
