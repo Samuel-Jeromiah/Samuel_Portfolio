@@ -42,24 +42,31 @@ const CertificateCategory = ({ title, certificates }) => (
 const Certifications = () => {
     const northeasternCertificates = [
         {
+            name: "Innovation Challenge",
+            date: "2025",
+            issuer: "Northeastern University",
+            link: "https://northeastern.badges.parchment.com/public/credentials/AkQxt6wXTKKqqMbxggH_1g?identity__email=jeromiah.s%40northeastern.edu",
+            type: "Credential"
+        },
+        {
             name: "Essentials for Academic Success",
             date: "2025",
             issuer: "Northeastern University",
-            link: "https://badges.parchment.com/v2/credentials/pWw3XlhjRpquKBPhX9fN3Q",
+            link: "https://northeastern.badgr.com/public/credentials/pWw3XlhjRpquKBPhX9fN3Q?identity__email=jeromiah.s%40northeastern.edu",
             type: "Credential"
         },
         {
             name: "Foundations of Responsible AI Learning",
             date: "2025",
             issuer: "Northeastern University",
-            link: "https://badges.parchment.com/v2/credentials/OB332frsSruyPpFyOdwxDQ",
+            link: "https://northeastern.badgr.com/public/credentials/OB332frsSruyPpFyOdwxDQ?identity__email=jeromiah.s%40northeastern.edu",
             type: "Credential"
         },
         {
             name: "Interview Communication",
             date: "2025",
             issuer: "Northeastern University",
-            link: "https://badges.parchment.com/v2/credentials/5s8lq6qESNu8-x3-M5T9yA",
+            link: "https://northeastern.badgr.com/public/credentials/5s8lq6qESNu8-x3-M5T9yA?identity__email=jeromiah.s%40northeastern.edu",
             type: "Credential"
         },
     ]
